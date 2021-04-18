@@ -1,0 +1,187 @@
+[
+    {
+        "name": "projectName",
+        "label": "Project Name",
+        "type": "char",
+        "length": 32,
+        "value": "Chapeau 1",
+        "hidden": false
+    },
+    {
+        "name": "language",        
+        "type": "char",
+        "length": 3,
+        "value": "en",
+        "hidden": true
+    },
+    {
+        "name": "printingPhrase",
+        "label": "To print String",
+        "type": "char",
+        "hidden": false,
+        "length": 100,
+        "value": "Hello World!"
+    },
+    {
+        "name": "scrollSpeed",
+        "label": "String Speed (ms)",
+        "type": "uint16_t",
+        "hidden": false,
+        "value": 100
+    },
+    {
+        "name": "runDemo",
+        "label": "Run Demo?",
+        "type": "bool",
+        "hidden": false,
+        "value": false
+    },
+    {
+        "name": "randomRun",
+        "label": "Random mode",
+        "type": "bool",
+        "hidden": false,
+        "value": false
+    },
+    {
+        "name": "runDemoTime",
+        "label": "Time Between Demo Rotation (s)",
+        "type": "uint16_t",
+        "hidden": false,
+        "value": 15
+    },
+    {
+        "name": "activateTextAnimation",
+        "label": "Run TextAnimation",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+        {
+        "name": "activateGraphicMidline1",
+        "label": "Run DemoGraphicMidline1",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicMidline2",
+        "label": "Run DemoGraphicMidline2",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicScanner",
+        "label": "Run Demo GraphicScanner",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicRandom",
+        "label": "Run Demo GraphicRandom",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicFade",
+        "label": "Run Demo GraphicFade",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicSpectrum1",
+        "label": "Run Demo GraphicSpectrum1",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicHeartbeat",
+        "label": "Run DemoGraphicHeartbeat",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicHearts",
+        "label": "Run Demo GraphicHearts",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicEyes",
+        "label": "Run Demo GraphicEyes",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicBounceBall",
+        "label": "Run Demo GraphicBounceBall",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicArrowScroll",
+        "label": "Run Demo GraphicArrowScroll",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicScroller",
+        "label": "Run Demo GraphicScroller",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicWiper",
+        "label": "Run Demo GraphicWiper",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicInvader",
+        "label": "Run Demo GraphicInvader",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicPacman",
+        "label": "Run Demo GraphicPacman",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicArrowRotate",
+        "label": "Run Demo GraphicArrowRotate",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicSpectrum2",
+        "label": "Run Demo GraphicSpectrum2",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    },
+    {
+        "name": "activateGraphicSinewave",
+        "label": "Run Demo GraphicSinewave",
+        "type": "bool",
+        "hidden": false,
+        "value": true
+    }
+    
+]
